@@ -1,4 +1,4 @@
-<h3 align="center">17yo wanna be dev of minecraft plugins/mods , indie games</h3>
+<h3 align="center">17yo wanna be dev of minecraft plugins , indie games</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
