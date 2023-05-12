@@ -7,19 +7,15 @@ I'm software Dev from the Czech Republic, usually Im working on games or plugins
 ### 🤺 &nbsp;I also enjoy:
 
 - 🎸playing on electric guitar
-<br>
 - ♟️chess
-<br>
 - 🎧music
-<br>
 - 🎮 games
 
 <br>
-#1 made in abyss fan
-  <br>
+
+### &nbsp; #1 made in abyss fan
 
 <img align='center' src="https://media.tenor.com/cmw_zQYAMwwAAAAd/made-in-abyss-season2-faputa.gif" width="400">
-<br>
 
 # 🔨 &nbsp;working on :
 
@@ -50,7 +46,6 @@ I'm software Dev from the Czech Republic, usually Im working on games or plugins
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kraksy)
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
 
