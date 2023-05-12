@@ -1,5 +1,5 @@
 <img src="images/welcome.png">
-<img align='right' src="https://media.discordapp.net/attachments/622851789116538896/622852170764779550/dance.gif" width="230">
+<img align='right' src="https://media.discordapp.net/attachments/622851789116538896/622852170764779550/dance.gif" width="200">
 
 # 👋 &nbsp;Hi there
 I'm software Dev from the Czech Republic, usually Im working on games or plugins, I enjoy 3d printing and building with RaspberryPi / RasberryPico
@@ -18,6 +18,7 @@ I'm software Dev from the Czech Republic, usually Im working on games or plugins
 <img align='center' src="https://media.tenor.com/cmw_zQYAMwwAAAAd/made-in-abyss-season2-faputa.gif" width="400">
 
 # 🔨 &nbsp;working on :
+ <img align='right' src="https://media.tenor.com/hsWkGS6VvGYAAAAd/nanachi-made-in-abyss.gif" width="300">
 
 - [ ] TeaMC { minecraft plugins }
     - [ ] butcher event
@@ -25,6 +26,7 @@ I'm software Dev from the Czech Republic, usually Im working on games or plugins
     - [ ] legendary weapons
 - [ ] mtracker
 - [ ] touhou discord rich presence
+
 
 
 # 💬 &nbsp;Personal 
