@@ -1,5 +1,5 @@
 <img src="images/welcome.png">
-<img align='right' src="https://media.discordapp.net/attachments/622851789116538896/622852170764779550/dance.gif" width="200">
+<img align='right' src="[https://media.discordapp.net/attachments/622851789116538896/622852170764779550/dance.gif](https://tenor.com/view/super-faputa-gif-26574097)" width="200">
 
 # 👋 &nbsp;Hi there
 I'm software Dev from the Czech Republic, usually Im working on games or plugins, I enjoy 3d printing and building with RaspberryPi / RasberryPico
