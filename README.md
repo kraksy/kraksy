@@ -29,6 +29,7 @@ I'm software Dev from the Czech Republic, usually Im working on games or plugins
 
 
 
+
 # 💬 &nbsp;Personal 
 | discord | twitter | myanimelist | steam |
 |---------|---------|-------------|-------|
