@@ -46,7 +46,7 @@ I'm software Dev from the Czech Republic,<br> usually Im working on games or plu
 ##  ❤️ &nbsp;Spotify
 
 <img align='left' src="https://media.tenor.com/fgUYdWRvcL0AAAAd/queen-faputa.gif" width="400">
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kraksy)
 
