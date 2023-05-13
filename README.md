@@ -31,7 +31,7 @@ I'm software Dev from the Czech Republic,<br> usually Im working on games or plu
 # 💬 &nbsp;Personal 
 | discord | twitter | myanimelist | steam |
 |---------|---------|-------------|-------|
-|   Krek#1086 <a href="https://discord.gg/HRg49Msyuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="theKrek#1086" height="30" width="40" /></a>    |     <a href="https://twitter.com/kraksy2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kraksy2" height="30" width="40" /></a>    | x           |    https://steamcommunity.com/id/krekxd/   |
+|   Krek#1086 <a href="https://discord.gg/HRg49Msyuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="theKrek#1086" height="30" width="40" /></a>    |     <a href="https://twitter.com/kraksy2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kraksy2" height="30" width="40" /></a>    | https://myanimelist.net/profile/kraksy           |    https://steamcommunity.com/id/krekxd/   |
 
 <img align='right' src="https://media.tenor.com/nMLgM3oWRtgAAAAd/made-in-abyss-faputa.gif" width="300">
 
