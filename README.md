@@ -24,7 +24,6 @@ I'm software Dev from the Czech Republic,<br> usually Im working on games or plu
     - [ ] butcher event
     - [ ] gems
     - [ ] legendary weapons
-- [ ] mtracker
 - [ ] touhou discord rich presence
 
 
